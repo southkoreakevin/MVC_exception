@@ -1,2 +1,4 @@
 # MVC_exception
-exception
+1. exception handling and error Page
+2. API exception handling
+
